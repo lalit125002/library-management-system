@@ -1,0 +1,8 @@
+# Local environment and secrets
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Runtime uploads (keep bundled sample assets)
+uploads/
